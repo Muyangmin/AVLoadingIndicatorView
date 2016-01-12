@@ -5,7 +5,7 @@ import android.graphics.Paint;
 import android.util.Log;
 import android.view.View;
 
-import com.nineoldandroids.animation.Animator;
+import android.animation.Animator;
 
 import java.util.ArrayList;
 import java.util.List;

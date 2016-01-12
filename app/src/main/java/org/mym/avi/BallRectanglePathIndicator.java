@@ -6,7 +6,7 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.view.animation.AccelerateDecelerateInterpolator;
 
-import com.nineoldandroids.animation.Animator;
+import android.animation.Animator;
 import com.wang.avi.indicator.BaseIndicatorController;
 
 import java.util.ArrayList;

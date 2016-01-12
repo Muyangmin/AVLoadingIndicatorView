@@ -3,8 +3,8 @@ package com.wang.avi.indicator;
 
 import android.view.animation.LinearInterpolator;
 
-import com.nineoldandroids.animation.Animator;
-import com.nineoldandroids.animation.ValueAnimator;
+import android.animation.Animator;
+import android.animation.ValueAnimator;
 
 import java.util.ArrayList;
 import java.util.List;
